@@ -44,4 +44,4 @@ def book_details():
     return render_template('book_details.html', book_details=book_details)
 
 if __name__ == '__main__':
-    app.run(host='54.91.14.121', port=5000, debug=True)
+    app.run(host='0.0.0.0', port=5000, debug=True)
