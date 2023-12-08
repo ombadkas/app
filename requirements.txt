@@ -3,3 +3,4 @@ template-render==0.1.0
 Jinja2==3.0.3
 itsdangerous==2.0.1
 werkzeug==2.0.2
+requests==2.31.0
